@@ -25,7 +25,7 @@
 
 			try {
 				 Class.forName("com.mysql.jdbc.Driver");
-				 connection = DriverManager.getConnection("jdbc:mysql://35.231.9.20/test?", "root", "root");
+				 connection = DriverManager.getConnection("jdbc:mysql://104.154.50.175/test?", "root", "root");
 			
 	    			 
 				    Statement stmt=connection.createStatement();  
