@@ -68,7 +68,7 @@ Your Instant Storage System
     
     <form action="loginScript.jsp" method="post">
 		<div class="avatar"><i class="material-icons">&#xE7FF;</i></div>
-    	<h4 class="modal-title">Welcome2</h4>
+    	<h4 class="modal-title">Welcome</h4>
         <div class="form-group">
             <input type="email" class="form-control" name="email" placeholder="Email" required="required">
         </div>
